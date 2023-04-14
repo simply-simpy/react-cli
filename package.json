@@ -1,0 +1,29 @@
+{
+  "name": "react-cli",
+  "version": "1.0.0",
+  "description": "A CLI for React which has Storybook and an accessible WebPack file",
+  "bin": {
+    "react-c-c": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simply-simpy/react-cli.git"
+  },
+  "keywords": [
+    "react",
+    "cli",
+    "create"
+  ],
+  "author": "Scott Simpson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simply-simpy/react-cli/issues"
+  },
+  "homepage": "https://github.com/simply-simpy/react-cli#readme",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
+}
